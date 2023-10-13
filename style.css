@@ -1,0 +1,164 @@
+.r-ico{
+    width: 30px;
+    cursor: pointer;
+}
+.menu{
+    font-size: 25px;
+    margin-left: 10px;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 10px;
+}
+.menu:hover{
+    background-color: #aaa;
+}
+.navbar{
+    position: fixed;
+    top: 0;
+    background-color: #ccc;
+    width: 100%;
+    padding: 3px;
+    border-bottom: 1px solid #747474d8;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.navbar div{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.b1{
+    border-style: none;
+    padding: 10px;
+    background-color: #ccc;
+    font-size: 20px;
+    cursor: pointer;
+    
+}
+.b1:hover{
+    border-bottom: 3px solid black;
+}
+body{
+    font-family: sans-serif;
+    background-color: #ddd;
+}
+.inp1{
+    border-style: none;
+    outline: none;
+    padding: 4px;
+    border-radius: 5px;
+    width: 270px;
+    padding-left: 20px;
+    position: relative;
+}
+.inp1::placeholder{
+    opacity: 0.5;
+}
+.search{
+    position: absolute;
+    left: 591px;
+    cursor: pointer;
+}
+.profile-pic{
+    width: 40px;
+    border-radius: 30px;
+    background-color: #aaa;
+}
+.nav-r{
+    margin-right: 30px;
+}
+.i-r{
+    font-size: 30px;
+    cursor: pointer;
+}
+h1{
+    margin-top: 100px;
+    color: #181818;
+    font-weight: bolder;
+    font-size: 40px;
+}
+.cont{
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.lef{
+    margin-left: 20px;
+}
+.fri-i{
+    width: 100px;
+    background-color: #aaa;
+    border-radius: 50px;
+}
+.fri{
+    display: flex;
+    align-items: center;
+}
+.under:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.fri-text{
+    display: flex;
+    align-items: center;
+    gap: 860px;
+}
+.fri-text h3{
+    font-weight: lighter;
+    cursor: pointer;
+}
+.fri-text h3:hover{
+    text-decoration: underline;
+}
+.cont1{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.img1{
+    border-radius: 10px;
+}
+
+.g-tit{
+    width: 170px;
+}
+.gam-car{
+    display: flex;
+    align-items: center;
+}
+.re-im{
+    width: 250px;
+    border-radius: 7px;
+}
+.re-car{
+    display: flex;
+    align-items: center;
+}
+.co-up{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+.co-up h3{
+    opacity: 0.7;
+    cursor: pointer;
+}
+.co-up h3:hover{
+    opacity: 1;
+}
+.end{
+    margin-left: 200px;
+}
+.cont2{
+    width: 900px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+.p1{
+    width: 800px;
+    margin-left: 250px;
+    margin-bottom: 30px;
+}
